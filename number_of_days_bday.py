@@ -1,4 +1,4 @@
-__author__ = 'Andre cirilo'
+__author__ = 'Zarcasm'
 import datetime
 
 bday = input("When is your next birthday? (dd/mm/yyyy)")
