@@ -9,4 +9,4 @@ today.strftime("%d/%m/%Y")
 
 number_days= bday2 - today
 
-print("U have to wait",number_days," :)")
+print("U have to wait",number_days," :)!")
